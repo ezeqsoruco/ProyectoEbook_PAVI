@@ -44,14 +44,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="LoginEbook.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="LoginEbook.Designer.cs">
+      <DependentUpon>LoginEbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalEbookEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalEbookEmpleado.Designer.cs">
+      <DependentUpon>PrincipalEbookEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalEbookGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrincipalEbookGerente.Designer.cs">
+      <DependentUpon>PrincipalEbookGerente.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="LoginEbook.resx">
+      <DependentUpon>LoginEbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalEbookEmpleado.resx">
+      <DependentUpon>PrincipalEbookEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrincipalEbookGerente.resx">
+      <DependentUpon>PrincipalEbookGerente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

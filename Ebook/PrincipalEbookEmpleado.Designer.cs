@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // PrincipalEbook
+            // PrincipalEbookEmpleado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(760, 241);
-            this.Name = "PrincipalEbook";
-            this.Text = "PrincipalEbook";
+            this.Name = "PrincipalEbookEmpleado";
+            this.Text = "Principal Ebook Empleado";
             this.ResumeLayout(false);
 
         }
