@@ -1,6 +1,6 @@
 ﻿namespace Ebook
 {
-    partial class Form1
+    partial class PrincipalEbookEmpleado
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // PrincipalEbook
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "Form1";
-            this.Text = "Login";
+            this.ClientSize = new System.Drawing.Size(760, 241);
+            this.Name = "PrincipalEbook";
+            this.Text = "PrincipalEbook";
             this.ResumeLayout(false);
 
         }
@@ -44,4 +44,3 @@
         #endregion
     }
 }
-

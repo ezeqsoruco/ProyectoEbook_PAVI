@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ebook
 {
-    public partial class Form1 : Form
+    public partial class LoginEbook : Form
     {
-        public Form1()
+        public LoginEbook()
         {
             InitializeComponent();
         }
