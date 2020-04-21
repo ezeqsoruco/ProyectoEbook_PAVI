@@ -1,2 +1,12 @@
 c:\users\eze\documents\visual studio 2013\Projects\Ebook\Ebook\bin\Debug\Ebook.exe.config
 C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\bin\Debug\Ebook.exe.config
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\bin\Debug\Ebook.exe
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\bin\Debug\Ebook.pdb
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.csprojResolveAssemblyReference.cache
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.LoginEbook.resources
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.PrincipalEbookEmpleado.resources
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.PrincipalEbookGerente.resources
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.Properties.Resources.resources
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.csproj.GenerateResource.Cache
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.exe
+C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.pdb
