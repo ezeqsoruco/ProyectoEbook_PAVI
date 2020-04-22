@@ -10,3 +10,4 @@ C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.Propertie
 C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.csproj.GenerateResource.Cache
 C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.exe
 C:\Users\Eze\Documents\GitHub\ProyectoEbook_PAVI\Ebook\obj\Debug\Ebook.pdb
+C:\Users\Jorge\Documents\GitHub\ProyectoEbook_PAVI\Ebook\bin\Debug\Ebook.exe.config

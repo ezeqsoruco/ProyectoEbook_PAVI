@@ -47,6 +47,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entidades\Barrio.cs" />
+    <Compile Include="Entidades\CorreoEmpresa.cs" />
+    <Compile Include="Entidades\Descuento.cs" />
+    <Compile Include="Entidades\DetalleVenta.cs" />
+    <Compile Include="Entidades\Ebook.cs" />
+    <Compile Include="Entidades\Editorial.cs" />
+    <Compile Include="Entidades\Empleado.cs" />
+    <Compile Include="Entidades\Genero.cs" />
+    <Compile Include="Entidades\Institucion.cs" />
+    <Compile Include="Entidades\Localidad.cs" />
+    <Compile Include="Entidades\Persona.cs" />
+    <Compile Include="Entidades\Premio.cs" />
+    <Compile Include="Entidades\Provincia.cs" />
+    <Compile Include="Entidades\Sitio.cs" />
+    <Compile Include="Entidades\SubGenero.cs" />
+    <Compile Include="Entidades\Tarea.cs" />
+    <Compile Include="Entidades\TipoDocumento.cs" />
+    <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="Entidades\Venta.cs" />
     <Compile Include="LoginEbook.cs">
       <SubType>Form</SubType>
     </Compile>
